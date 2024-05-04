@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Personal Website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/personal-bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal-bio/</guid>
+      <description>Education: Cornell University (2020-2024) Grade: Senior Major: Computer Science and Operations Research Hometown: Shanghai, China</description>
+    </item>
+    <item>
+      <title>Experiences</title>
+      <link>http://localhost:1313/experiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experiences/</guid>
+      <description>TA Experiences:&#xA;Teaching assistant for CS1110 (FA22, SP23, SP24), CS4410 (FA23), AEW Facilitator for CS1110 (SP22), , CS 3110 (FA220, CS2110 (SP23) Past Courseworks:&#xA;Computer Vision, Algorithms, Advanced Database System, Machine Learning, Operating Systems,Embedded Systems, Robotics Foundations, Object-Oriented/Functional Programming, Stochastic Process, Optimization Programming Languages:&#xA;Python, Java, C/C++, SQL, OCaml, R, JavaScript Internship Experiences:&#xA;Software Engineer Intern at Amazon (Summer 2024)&#xA;Audit Intern at Ernst &amp;amp; Young (Summer 2023)</description>
+    </item>
+    <item>
+      <title>Others</title>
+      <link>http://localhost:1313/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/</guid>
+      <description>In my free time, I enjoy playing the piano and reading books. I also love traveling and exploring different categories of food from all over the world.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Ultimate Tic Tac Toe with AI Models (Python)&#xA;• Software engineered a dynamic Ultimate Tic Tac Toe with multiple artificial intelligence opponents.&#xA;• Implemented machine learning algorithms and enabled game simulations between multiple AI models.&#xA;• Successfully trained and evaluated AI models to achieve a maximum of 72% winning rate.&#xA;Gender Disparities in Corporations (Python)&#xA;• Software engineered a simulation model studying the gender ratio of employees in each level after certain number of years.</description>
+    </item>
+  </channel>
+</rss>
